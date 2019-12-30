@@ -1,7 +1,7 @@
 # Beginner-Repo
 This repository is made for the beginners to get started with git contribution
 
-## set up git
+## Setup Git
 - git config --global user.name "John_Doe"
 - git config --global user.email "john@example.com"
 
