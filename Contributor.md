@@ -4,3 +4,4 @@ Format
 ## [Name](Github Link)
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
+Binay Agarwal(https://github.com/agarwalBinay18)
