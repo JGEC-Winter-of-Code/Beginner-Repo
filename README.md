@@ -19,3 +19,20 @@ e.g __git push origin devsg__ ( it will push branch devsg( local branch) to orig
 8. git config --global --get-regexp http.*
 9. git config --global --unset https.proxy
 10. git config --global --unset http.proxy
+
+
+## First Contribtution
+
+- In order to contribute to this repository first fork the repo.(you can see this in the right most side of the page).This will make a local vesrion of the repository in your GitHub account. 
+
+- ``` git clone https://github.com/user_name/Beginner-Repo ``` where **user_name** is your GitHub handle name e.g - https://github.com/pydevsg/Beginner-Repo 
+- ``` cd Beginner-Repo ```
+- Change from master branch to your local_branch 
+```  git checkout -b local_branch ``` where **local_branch** is your local branch name and is user defined from your Git Bash.
+- Add your name in the Contributor.md file as given in the [Contributors format](https://github.com/pydevsg/Beginner-Repo/edit/master/Contributor.md/#4) 
+- ``` git add Contributor.md ```  
+- ``` git commit -m "comment" ``` where **comment** is user defined and it can be anything meaningful from your side. e.g - git commit -m " Added my name"
+- ``` git push origin local_branch ``` where **local_branch** is your local branch name and is user defined from your Git Bash.
+
+- This will  help your in making your first PR. 
+### All the best for [JGEC Winter of Code(JWoC)](https://jwoc.tech/). Keep contribtuing.:tada:
