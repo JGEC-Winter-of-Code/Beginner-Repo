@@ -34,5 +34,5 @@ e.g __git push origin devsg__ ( it will push branch devsg( local branch) to orig
 - ``` git commit -m "comment" ``` where **comment** is user defined and it can be anything meaningful from your side. e.g - git commit -m " Added my name"
 - ``` git push origin local_branch ``` where **local_branch** is your local branch name and is user defined from your Git Bash.
 
-- This will  help your in making your first PR. 
+- This will  help you in making your first PR. 
 ### All the best for [JGEC Winter of Code(JWoC)](https://jwoc.tech/). Keep contribtuing.:tada:
