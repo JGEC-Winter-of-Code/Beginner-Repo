@@ -2,5 +2,5 @@
 
 Format 
 ## [Name](Github Link)
-
+   Rachit Verma(https://github.com/rachit23)
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
