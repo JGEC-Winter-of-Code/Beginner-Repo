@@ -10,3 +10,5 @@ Format
 ## [Aditya Das](https://github.com/AdityaDas2101/)
 
 ## [Arpan Bhowmick](https://github.com/arpanb8907/)
+
+## [Murtaza Mustafa Khumusi](https://github.com/murtaza1112/)
