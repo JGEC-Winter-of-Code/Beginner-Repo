@@ -14,3 +14,5 @@ Format
 ## [Murtaza Mustafa Khumusi](https://github.com/murtaza1112/)
 
 ## [Parjanya Aditya Shukla](https://github.com/parjanyaacoder)
+
+## [Manish Pandey](https://github.com/InvincibleNobita)
