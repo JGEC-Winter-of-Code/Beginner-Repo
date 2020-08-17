@@ -16,3 +16,5 @@ Format
 ## [Parjanya Aditya Shukla](https://github.com/parjanyaacoder)
 
 ## [Manish Pandey](https://github.com/InvincibleNobita)
+
+## [Sruti Chatterjee](https://github.com/sruti2024)
