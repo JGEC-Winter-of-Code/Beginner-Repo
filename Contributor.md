@@ -13,6 +13,8 @@ Format
 
 ## [Murtaza Mustafa Khumusi](https://github.com/murtaza1112/)
 
+## [Dhiki Indryanto](https://github.com/gebleksengek)
+
 ## [Parjanya Aditya Shukla](https://github.com/parjanyaacoder)
 
 ## [Manish Pandey](https://github.com/InvincibleNobita)
