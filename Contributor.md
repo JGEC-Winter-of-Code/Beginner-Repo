@@ -18,3 +18,5 @@ Format
 ## [Manish Pandey](https://github.com/InvincibleNobita)
 
 ## [Sruti Chatterjee](https://github.com/sruti2024)
+
+## [Zachary Moseti](https://github.com/ZachyDev)
