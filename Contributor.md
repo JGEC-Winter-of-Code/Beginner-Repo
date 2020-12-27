@@ -22,3 +22,7 @@ Format
 ## [Manish Pandey](https://github.com/InvincibleNobita)
 
 ## [Mahmoud Mabrok](https://github.com/MahmoudMabrok)
+
+## [Zachary Moseti](https://github.com/ZachyDev)
+
+
