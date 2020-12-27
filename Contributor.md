@@ -1,7 +1,8 @@
 # Add your names here and start your open source journey.
 
 Format 
-## [Sayan Ojha](https://github.com/sayan2203/)
+
+## [Name](GitHub profile link)
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
@@ -14,6 +15,8 @@ Format
 ## [Aditya Das](https://github.com/AdityaDas2101/)
 
 ## [Arpan Bhowmick](https://github.com/arpanb8907/)
+
+## [Sayan Ojha](https://github.com/sayan2203/)
 
 ## [Murtaza Mustafa Khumusi](https://github.com/murtaza1112/)
 
