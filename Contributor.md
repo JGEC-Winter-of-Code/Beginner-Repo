@@ -7,6 +7,8 @@ Format
 
 ## [Chiraag Kakar](https://github.com/chiraag-kakar/)
 
+## [Sruti Chatterjee](https://github.com/sruti2024)
+
 ## [Md Mahmood Ahmed](https://github.com/mahmood199/)
 
 ## [Aditya Das](https://github.com/AdityaDas2101/)
@@ -19,4 +21,4 @@ Format
 
 ## [Manish Pandey](https://github.com/InvincibleNobita)
 
-## [Sruti Chatterjee](https://github.com/sruti2024)
+## [Mahmoud Mabrok](https://github.com/MahmoudMabrok)
