@@ -5,6 +5,8 @@ Format
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
+## [Chiraag Kakar](https://github.com/chiraag-kakar/)
+
 ## [Md Mahmood Ahmed](https://github.com/mahmood199/)
 
 ## [Aditya Das](https://github.com/AdityaDas2101/)
