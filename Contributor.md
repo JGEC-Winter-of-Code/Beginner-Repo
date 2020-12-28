@@ -28,4 +28,6 @@ Format
 
 ## [Zachary Moseti](https://github.com/ZachyDev)
 
+## [Aryan Patel](https://github.com/patelaryan7751/)
+
 
