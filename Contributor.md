@@ -30,6 +30,8 @@ Format
 
 ## [Aryan Patel](https://github.com/patelaryan7751/)
 
+## [V Nikhita](https://github.com/Nikhita28)
+
 ## [Soham Sen](https://github.com/NuclearCactus)
 
 ## [Sandip Kole](https://github.com/maihunsandip)
