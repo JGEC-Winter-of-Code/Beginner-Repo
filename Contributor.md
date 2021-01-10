@@ -2,6 +2,8 @@
 
 Format 
 
+## [Name](Github Link)
+
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
 ## [Chiraag Kakar](https://github.com/chiraag-kakar/)
@@ -43,3 +45,5 @@ Format
 ## [Soham Chowdhury](https://github.com/code-soham/)
 
 ## [Soumil Banik](https://github.com/Soumil-Banik)
+
+## [Rachit Verma](https://github.com/rachit23)
