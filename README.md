@@ -38,3 +38,5 @@ e.g __git push origin devsg__ ( it will push branch devsg( local branch) to orig
 
 - This will  help you in making your first PR. 
 ### All the best for [JGEC Winter of Code(JWoC)](https://jwoc.tech/). Keep contribtuing.:tada:
+
+## [Sandip Kole](https://github.com/maihunsandip)
