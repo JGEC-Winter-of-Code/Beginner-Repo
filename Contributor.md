@@ -32,6 +32,8 @@ Format
 
 ## [Aryan Patel](https://github.com/patelaryan7751/)
 
+## [Kushagra Gangwar](https://github.com/kushagragangwarr/)
+
 ## [Anubhab Sarkar](https://github.com/anubhab1710/)
 
 ## [V Nikhita](https://github.com/Nikhita28)
