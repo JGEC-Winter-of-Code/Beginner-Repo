@@ -31,3 +31,8 @@ Format
 ## [Aryan Patel](https://github.com/patelaryan7751/)
 
 ## [Soham Sen](https://github.com/NuclearCactus)
+
+## [Sandip Kole](https://github.com/maihunsandip)
+
+## [Soumil Banik](https://github.com/Soumil-Banik)
+
