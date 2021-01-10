@@ -36,7 +36,10 @@ Format
 
 ## [Sandip Kole](https://github.com/maihunsandip)
 
+## [Rose Xiao](https://github.com/Rozie733)
+
 ## [Soham Chowdhury](https://github.com/code-soham/)
 
 ## [Soumil Banik](https://github.com/Soumil-Banik)
+
 
