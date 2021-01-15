@@ -49,3 +49,5 @@ Format
 ## [Soumil Banik](https://github.com/Soumil-Banik)
 
 ## [Rachit Verma](https://github.com/rachit23)
+
+## [Kedar Javalgekar](https://github.com/kdar11)
