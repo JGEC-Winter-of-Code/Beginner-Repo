@@ -4,7 +4,7 @@ Format
 
 ## [Name](Github Link)
 
-## [Aashish Prasad] (https://github.com/aashishwastaken)
+## [Aashish Prasad](https://github.com/aashishwastaken)
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
