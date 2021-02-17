@@ -32,6 +32,8 @@ Format
 
 ## [Aryan Patel](https://github.com/patelaryan7751/)
 
+## [Gary Lin](https://github.com/tgoscray)
+
 ## [Kushagra Gangwar](https://github.com/kushagragangwarr/)
 
 ## [Anubhab Sarkar](https://github.com/anubhab1710/)
@@ -57,3 +59,4 @@ Format
 ## [Monojit Chakraborty](https://github.com/mcmonojit)
 
 ## [Jaskeerat Singh](https://github.com/Jassi10000)
+
