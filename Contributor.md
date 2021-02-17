@@ -8,9 +8,13 @@ Format
 
 ## [Chiraag Kakar](https://github.com/chiraag-kakar/)
 
+## [Yogesh Jha](https://github.com/hound77)
+
 ## [Sruti Chatterjee](https://github.com/sruti2024)
 
 ## [Sahil Saha](https://github.com/sahilsaha7773/)
+
+## [Syed Modassir Ali](https://github.com/gr33nm0nk2802/)
 
 ## [Md Mahmood Ahmed](https://github.com/mahmood199/)
 
@@ -52,11 +56,8 @@ Format
 
 ## [Rachit Verma](https://github.com/rachit23)
 
-## [Yogesh Jha](https://github.com/hound77)
-
 ## [Gaurav Kumar Shah](https://github.com/GaurKS)
 
 ## [Monojit Chakraborty](https://github.com/mcmonojit)
 
 ## [Jaskeerat Singh](https://github.com/Jassi10000)
-
