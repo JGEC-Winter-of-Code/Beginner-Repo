@@ -1,14 +1,16 @@
 # Add your names here and start your open source journey.
 
-Format 
+Format
 
-## [Name](GitHub profile link)
+## [Name](Github Link)
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
 ## [Chiraag Kakar](https://github.com/chiraag-kakar/)
 
 ## [Sruti Chatterjee](https://github.com/sruti2024)
+
+## [Sahil Saha](https://github.com/sahilsaha7773/)
 
 ## [Md Mahmood Ahmed](https://github.com/mahmood199/)
 
@@ -31,3 +33,30 @@ Format
 ## [Aryan Patel](https://github.com/patelaryan7751/)
 
 ## [Gary Lin](https://github.com/tgoscray)
+
+## [Kushagra Gangwar](https://github.com/kushagragangwarr/)
+
+## [Anubhab Sarkar](https://github.com/anubhab1710/)
+
+## [V Nikhita](https://github.com/Nikhita28)
+
+## [Soham Sen](https://github.com/NuclearCactus)
+
+## [Sandip Kole](https://github.com/maihunsandip)
+
+## [Rose Xiao](https://github.com/Rozie733)
+
+## [Soham Chowdhury](https://github.com/code-soham/)
+
+## [Soumil Banik](https://github.com/Soumil-Banik)
+
+## [Rachit Verma](https://github.com/rachit23)
+
+## [Yogesh Jha](https://github.com/hound77)
+
+## [Gaurav Kumar Shah](https://github.com/GaurKS)
+
+## [Monojit Chakraborty](https://github.com/mcmonojit)
+
+## [Jaskeerat Singh](https://github.com/Jassi10000)
+
