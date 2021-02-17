@@ -1,6 +1,6 @@
 # Add your names here and start your open source journey.
 
-Format 
+Format
 
 ## [Name](Github Link)
 
@@ -54,3 +54,4 @@ Format
 
 ## [Monojit Chakraborty](https://github.com/mcmonojit)
 
+## [Jaskeerat Singh](https://github.com/Jassi10000)
