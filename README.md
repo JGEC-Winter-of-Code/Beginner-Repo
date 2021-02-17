@@ -37,6 +37,7 @@ e.g __git push origin devsg__ ( it will push branch devsg( local branch) to orig
 - ``` git push origin local_branch ``` where **local_branch** is your local branch name and is user defined from your Git Bash.
 
 - This will  help you in making your first PR. 
-### All the best for [JGEC Winter of Code(JWoC)](https://jwoc.tech/). Keep contribtuing.:tada:
+### All the best for [JGEC Winter of Code(JWoC)](https://jwoc2k20.tech/). Keep contribtuing.:tada:
 
-## [Sandip Kole](https://github.com/maihunsandip)
+## Author : [Sudipto Ghosh](https://github.com/pydevsg) 👨🏻‍💻
+
