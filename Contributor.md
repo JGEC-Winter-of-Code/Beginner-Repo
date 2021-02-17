@@ -6,11 +6,13 @@ Format
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
+## [Sruti Chatterjee](https://github.com/sruti2024)
+
 ## [Chiraag Kakar](https://github.com/chiraag-kakar/)
 
 ## [Yogesh Jha](https://github.com/hound77)
 
-## [Sruti Chatterjee](https://github.com/sruti2024)
+## [Saurav Lal](https://github.com/saurav-skl/)
 
 ## [Sahil Saha](https://github.com/sahilsaha7773/)
 
