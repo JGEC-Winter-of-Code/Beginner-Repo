@@ -6,6 +6,8 @@ Format
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
+## [Amogh Nagar](https://github.com/Amoghtech)
+
 ## [Sruti Chatterjee](https://github.com/sruti2024)
 
 ## [Chiraag Kakar](https://github.com/chiraag-kakar/)
