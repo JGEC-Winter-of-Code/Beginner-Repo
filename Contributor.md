@@ -22,6 +22,8 @@ Format
 
 ## [Aditya Das](https://github.com/AdityaDas2101/)
 
+## [Gaurav Burjwal](https://github.com/gauravburjwal)
+
 ## [Arpan Bhowmick](https://github.com/arpanb8907/)
 
 ## [Sayan Ojha](https://github.com/sayan2203/)
@@ -68,4 +70,5 @@ Format
 
 ## [Apoorva Kaushal](https://github.com/ApoorvaKaushal09)
 
-##[Harshad Rokade](https://github.com/harshad71)
+## [Harshad Rokade](https://github.com/harshad71)
+
