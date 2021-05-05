@@ -76,7 +76,3 @@ Format
 
 ## [Steven Bahnsen](https://github.com/mr-steveb)
 
-## [Grace Poblete](https://github.com/g-town)
-
-## [Paco and Kayla](https://github.com/food)
-
