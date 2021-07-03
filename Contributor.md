@@ -74,4 +74,7 @@ Format
 
 ## [Harshad Rokade](https://github.com/harshad71)
 
+## [Shishir Kumar](https://github.com/CoffeeQuotes)
+
 ## [Bryceson Laing](https://github.com/bklaing2/)
+
