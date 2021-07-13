@@ -25,8 +25,7 @@ e.g __git push origin devsg__ ( it will push branch devsg( local branch) to orig
 
 ## First Contribtution
 
-- In order to contribute to this repository first fork the repo.(you can see this in the right most side of the page).This will make a local vesrion of the repository in your GitHub account. 
-
+- To contribute to this repository, first fork the repository (you can see this in the right-hand column).This will create a local version of the repository in your GitHub account.
 - ``` git clone https://github.com/user_name/Beginner-Repo ``` where **user_name** is your GitHub handle name e.g - https://github.com/pydevsg/Beginner-Repo 
 - ``` cd Beginner-Repo ```
 - Change from master branch to your local_branch 
