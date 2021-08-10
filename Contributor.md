@@ -78,3 +78,5 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Mayank Modi](https://github.com/modi0501/)
+
