@@ -78,3 +78,4 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Rishikesh S](https://github.com/RishikeshSreekumar)
