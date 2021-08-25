@@ -78,3 +78,5 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Rohit Ranjan](https://github.com/Arheo8)
+
