@@ -4,6 +4,8 @@ Format
 
 ## [Name](Github Link)
 
+## [Suraj Jaiswal](https://github.com/surazjaiswal)
+
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
 ## [Sruti Chatterjee](https://github.com/sruti2024)
@@ -77,4 +79,3 @@ Format
 ## [Shishir Kumar](https://github.com/CoffeeQuotes)
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
-
