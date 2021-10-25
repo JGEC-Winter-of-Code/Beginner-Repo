@@ -3,7 +3,10 @@
 Format
 
 ## [Name](Github Link)
-
+ 
+ 
+## [Ayush Susheel](https://github.com/Ayushsusheel)
+ 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
 ## [Sruti Chatterjee](https://github.com/sruti2024)
