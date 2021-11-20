@@ -64,6 +64,8 @@ Format
 
 ## [Gaurav Kumar Shah](https://github.com/GaurKS)
 
+## [Srihari Reddy kata](https://github.com/srihariksr27)
+
 ## [Monojit Chakraborty](https://github.com/mcmonojit)
 
 ## [Jaskeerat Singh](https://github.com/Jassi10000)
