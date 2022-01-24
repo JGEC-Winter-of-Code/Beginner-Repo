@@ -82,6 +82,7 @@ Format
 
 ## [Mainak Roy](https://github.com/Mainakroy050)
 
-## [Vipul Vishwakarma](https://github.com/pawan521)
+## [Harshvardhan Singh Negi](https://github.com/Harshvardhan-sN)
 
+## [Vipul Vishwakarma](https://github.com/pawan521)
 
