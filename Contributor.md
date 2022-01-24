@@ -1,18 +1,30 @@
 # Add your names here and start your open source journey.
 
-Format 
+Format
 
-## [Name](GitHub profile link)
+## [Name](Github Link)
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
+## [Sruti Chatterjee](https://github.com/sruti2024)
+
 ## [Chiraag Kakar](https://github.com/chiraag-kakar/)
 
-## [Sruti Chatterjee](https://github.com/sruti2024)
+## [Yogesh Jha](https://github.com/hound77)
+
+## [Saurav Lal](https://github.com/saurav-skl/)
+
+## [Sahil Saha](https://github.com/sahilsaha7773/)
+
+## [Syed Modassir Ali](https://github.com/gr33nm0nk2802/)
 
 ## [Md Mahmood Ahmed](https://github.com/mahmood199/)
 
 ## [Aditya Das](https://github.com/AdityaDas2101/)
+
+## [Gaurav Burjwal](https://github.com/gauravburjwal)
+
+## [Suvam Prasad](https://github.com/SuvamPrasd)
 
 ## [Arpan Bhowmick](https://github.com/arpanb8907/)
 
@@ -31,3 +43,40 @@ Format
 ## [Aryan Patel](https://github.com/patelaryan7751/)
 
 ## [Meghana Ayyala Somayajula](https://github.com/meghanaayyala)
+
+## [Gary Lin](https://github.com/tgoscray)
+
+## [Kushagra Gangwar](https://github.com/kushagragangwarr/)
+
+## [Anubhab Sarkar](https://github.com/anubhab1710/)
+
+## [V Nikhita](https://github.com/Nikhita28)
+
+## [Soham Sen](https://github.com/NuclearCactus)
+
+## [Sandip Kole](https://github.com/maihunsandip)
+
+## [Rose Xiao](https://github.com/Rozie733)
+
+## [Soham Chowdhury](https://github.com/code-soham/)
+
+## [Soumil Banik](https://github.com/Soumil-Banik)
+
+## [Rachit Verma](https://github.com/rachit23)
+
+## [Gaurav Kumar Shah](https://github.com/GaurKS)
+
+## [Monojit Chakraborty](https://github.com/mcmonojit)
+
+## [Jaskeerat Singh](https://github.com/Jassi10000)
+
+## [Pooja Dhongadi](https://github.com/PoojaDhongadi)
+
+## [Apoorva Kaushal](https://github.com/ApoorvaKaushal09)
+
+## [Harshad Rokade](https://github.com/harshad71)
+
+## [Shishir Kumar](https://github.com/CoffeeQuotes)
+
+## [Bryceson Laing](https://github.com/bklaing2/)
+
