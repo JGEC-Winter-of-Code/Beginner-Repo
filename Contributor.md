@@ -93,3 +93,5 @@ Format
 ## [Ramyak Rohan Mohanty](https://github.com/TheInspiredConjurer)
 
 ## [Md Imrajul Alam](https://github.com/TorToize)
+
+## [Kuldeep Singh](https://github.com/nisKULDEEP)
