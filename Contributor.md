@@ -101,6 +101,10 @@ Format
 ## [Sriniketh J](https://github.com/srini047)
 
 ## [Tihsrah](https://github.com/Tihsrah)
+
+## [Shubham Rathod](https://github.com/RATHOD-SHUBHAM)
+
 ## [Albert Debbarma](https://github.com/Albert-Debbarma)
 
 ## [Tejaswi](https://github.com/Tess-Vanta)
+
