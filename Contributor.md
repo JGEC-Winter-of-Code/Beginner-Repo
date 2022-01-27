@@ -42,6 +42,8 @@ Format
 
 ## [Aryan Patel](https://github.com/patelaryan7751/)
 
+## [Meghana Ayyala Somayajula](https://github.com/meghanaayyala)
+
 ## [Gary Lin](https://github.com/tgoscray)
 
 ## [Kushagra Gangwar](https://github.com/kushagragangwarr/)
@@ -78,3 +80,32 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Mainak Roy](https://github.com/Mainakroy050)
+
+## [Harshvardhan Singh Negi](https://github.com/Harshvardhan-sN)
+
+## [Vipul Vishwakarma](https://github.com/pawan521)
+
+## [Swastik Kumar Pal](https://github.com/SwastikPal1)
+
+## [Mridul Dey](https://github.com/mridul4101)
+
+## [Ramyak Rohan Mohanty](https://github.com/TheInspiredConjurer)
+
+## [Sai Pallavi Sistla](https://github.com/sai-pallavi-2003)
+
+## [Md Imrajul Alam](https://github.com/TorToize)
+
+## [Kuldeep Singh](https://github.com/nisKULDEEP)
+
+## [Sriniketh J](https://github.com/srini047)
+
+## [Tihsrah](https://github.com/Tihsrah)
+
+## [Shubham Rathod](https://github.com/RATHOD-SHUBHAM)
+
+## [Albert Debbarma](https://github.com/Albert-Debbarma)
+
+## [Tejaswi](https://github.com/Tess-Vanta)
+
+## [Priyank Sinha](https://github.com/PranK14)
