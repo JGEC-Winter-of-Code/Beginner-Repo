@@ -78,3 +78,5 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Bruno Barbosa](https://github.com/brunbs/)
+
