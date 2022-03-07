@@ -78,3 +78,5 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Maxim Svistunov](https://github.com/mizoru/)
+
