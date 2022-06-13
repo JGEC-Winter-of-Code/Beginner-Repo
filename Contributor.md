@@ -78,3 +78,5 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Kelsey Doyle](https://github.com/kdoyle390)
+
