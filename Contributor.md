@@ -56,6 +56,8 @@ Format
 
 ## [Rose Xiao](https://github.com/Rozie733)
 
+## [Kirtan Patel](https://github.com/kirtankp)
+
 ## [Soham Chowdhury](https://github.com/code-soham/)
 
 ## [Soumil Banik](https://github.com/Soumil-Banik)
