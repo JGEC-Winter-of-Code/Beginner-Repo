@@ -78,3 +78,5 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Manish Kumar](https://github.com/manishhansal/)
+
