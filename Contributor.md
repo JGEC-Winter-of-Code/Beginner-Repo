@@ -80,7 +80,8 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Nathan Stanford](https://github.com/nastanford/)
+
 ## [Than Tri TRAN](https://github.com/tri135790)
 
 ## [Dhruvkumar Patel](https://github.com/stack-dhruv)
-
