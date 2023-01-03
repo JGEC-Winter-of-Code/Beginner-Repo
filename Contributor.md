@@ -56,6 +56,8 @@ Format
 
 ## [Rose Xiao](https://github.com/Rozie733)
 
+## [Kirtan Patel](https://github.com/kirtankp)
+
 ## [Soham Chowdhury](https://github.com/code-soham/)
 
 ## [Soumil Banik](https://github.com/Soumil-Banik)
@@ -79,3 +81,7 @@ Format
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
 ## [Nathan Stanford](https://github.com/nastanford/)
+
+## [Than Tri TRAN](https://github.com/tri135790)
+
+## [Dhruvkumar Patel](https://github.com/stack-dhruv)
