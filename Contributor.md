@@ -80,6 +80,8 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Manish Kumar](https://github.com/manishhansal/)
+
 ## [Alexander Cairel](https://github.com/ajcairel)
 
 ## [Shivam Kumar](https://github.com/shivamsks219)
