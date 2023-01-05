@@ -23,7 +23,7 @@ e.g __git push origin devsg__ ( it will push branch devsg( local branch) to orig
 12. git config --global --unset http.proxy
 
 
-## First Contribtution
+## First Contribution
 
 - To contribute to this repository, first fork the repository (you can see this in the right-hand column).This will create a local version of the repository in your GitHub account.
 - ``` git clone https://github.com/user_name/Beginner-Repo ``` where **user_name** is your GitHub handle name e.g - https://github.com/pydevsg/Beginner-Repo 
@@ -36,7 +36,7 @@ e.g __git push origin devsg__ ( it will push branch devsg( local branch) to orig
 - ``` git push origin local_branch ``` where **local_branch** is your local branch name and is user defined from your Git Bash.
 
 - This will  help you in making your first PR. 
-### All the best for [JGEC Winter of Code(JWoC)](https://jwoc2k20.tech/). Keep contribtuing.:tada:
+### All the best for [JGEC Winter of Code(JWoC)](https://jwoc.tech/). Keep contributing! :tada:
 
 ## Author : [Sudipto Ghosh](https://github.com/pydevsg) 👨🏻‍💻
 
