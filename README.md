@@ -1,5 +1,5 @@
 # Beginner-Repo
-This repository is made for the beginners to get started with git contribution
+This repository is made for beginners to get started with git contribution
 
 ## Setup Git
 - git config --global user.name "John_Doe"
@@ -7,14 +7,14 @@ This repository is made for the beginners to get started with git contribution
 
 ## Git commands you are going to use
 
-1. git clone url (by cloning all the files in that repo will be available to your local machine + before cloning make sure to fork the repo to your acount)
+1. git clone url (by cloning, all the files in that repo will be available to your local machine + before cloning make sure to fork the repo to your account)
 2. cd RepositoryName(Beginner-Repo)
 3. git checkout -b branch_name
 4. git add filename.txt (after changing a particular file )
-5. git add . (too add everything)
-6. git commit -m "message"  (it is recommended to commit with a message to tell what are the things you have changed)
-7. git push (push it to the main branch now it will be available in github)
-> git push origin branch_name (it will push your code from local branch to the master branch) 
+5. git add . (to add everything)
+6. git commit -m "message"  (it is recommended that you commit with a message to indicate the things that you have changed)
+7. git push (push it to the main branch now, then it will be available in github)
+> git push origin branch_name (it will push your code from the local branch to the master branch) 
 e.g __git push origin devsg__ ( it will push branch devsg( local branch) to original repo's master branch , henceforth creating a PR)
 8. git config --global https.proxy 172.16.102.28:8080
 9. git config --global http.proxy 172.16.102.28:8080
