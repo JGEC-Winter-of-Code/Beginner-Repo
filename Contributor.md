@@ -80,6 +80,8 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Kelsey Doyle](https://github.com/kdoyle390)
+
 ## [Hillary Omondi](https://github.com/hillaryomondi)
 
 ## [Udhav Mohata](https://github.com/udhavmohata)
