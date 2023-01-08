@@ -80,6 +80,8 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Ravin Kaur](https://github.com/ravinkaur1997)
+
 ## [Kunal Bankoti](https://github.com/Kb739)
 
 ## [Maxim Svistunov](https://github.com/mizoru/)
