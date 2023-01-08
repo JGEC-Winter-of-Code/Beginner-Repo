@@ -56,6 +56,8 @@ Format
 
 ## [Rose Xiao](https://github.com/Rozie733)
 
+## [Kirtan Patel](https://github.com/kirtankp)
+
 ## [Soham Chowdhury](https://github.com/code-soham/)
 
 ## [Soumil Banik](https://github.com/Soumil-Banik)
@@ -80,3 +82,30 @@ Format
 
 ## [Muhammed Sinan C K](https://github.com/Muhammedsinanck)
 
+## [Ravin Kaur](https://github.com/ravinkaur1997)
+
+## [Kunal Bankoti](https://github.com/Kb739)
+
+## [Maxim Svistunov](https://github.com/mizoru/)
+
+## [Kelsey Doyle](https://github.com/kdoyle390)
+
+## [Hillary Omondi](https://github.com/hillaryomondi)
+
+## [Udhav Mohata](https://github.com/udhavmohata)
+
+## [Kartheek K](https://github.com/kkartheek134/)
+
+## [Manish Kumar](https://github.com/manishhansal/)
+
+## [Alexander Cairel](https://github.com/ajcairel)
+
+## [Shivam Kumar](https://github.com/shivamsks219)
+
+## [Shankar Balajee](https://github.com/Shankar-Balajee)
+
+## [Nathan Stanford](https://github.com/nastanford/)
+
+## [Than Tri TRAN](https://github.com/tri135790)
+
+## [Dhruvkumar Patel](https://github.com/stack-dhruv)
