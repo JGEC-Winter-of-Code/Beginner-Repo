@@ -80,6 +80,8 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Mainak Roy](https://github.com/Mainakroy050)
+
 ## [Mayank Modi](https://github.com/modi0501/)
 
 ## [Urvashi Tomer](https://github.com/urvashi-tomer)
