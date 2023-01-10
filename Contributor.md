@@ -82,6 +82,8 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Shreyas Dixit](https://github.com/ShreyasDixit3012)
+
 ## [Mainak Roy](https://github.com/Mainakroy050)
 
 ## [Mayank Modi](https://github.com/modi0501/)
