@@ -82,6 +82,8 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Zubin Shah](https://github.com/coder-zs-cse)
+
 ## [Arpit Babbar](https://github.com/arpitbabbar)
 
 ## [Shubham Vishwakarma](https://github.com/ShubhamVishwakarma11)
