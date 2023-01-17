@@ -82,6 +82,8 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Nisura Indisa] (https://github.com/indezah/)
+
 ## [Susruta Das](https://github.com/susrutadas/)
 
 ## [Jamuna Nadarajah](https://github.com/jamuna27)
