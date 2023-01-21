@@ -82,6 +82,8 @@ Format
 
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
+## [Dhaval Vasveliya](https://github.com/dhavalvasveliya)
+
 ## [Lebedev Vladimir](https://github.com/TARRAKAN)
 
 ## [Rohit Ranjan](https://github.com/Arheo8)
