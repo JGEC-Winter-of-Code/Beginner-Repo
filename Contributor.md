@@ -2,7 +2,7 @@
 
 Format
 
-## [Name](Github Link)
+## [Ankit Adhikari](https://github.com/AnkitAdhikari)
 
 ## [Sudipto Ghosh](https://github.com/pydevsg/)
 
