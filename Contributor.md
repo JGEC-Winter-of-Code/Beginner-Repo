@@ -8,6 +8,8 @@ Format
 
 ## [Sruti Chatterjee](https://github.com/sruti2024)
 
+## [Hossain Kabir](https://github.com/ho-ssain)
+
 ## [Chiraag Kakar](https://github.com/chiraag-kakar/)
 
 ## [Yogesh Jha](https://github.com/hound77)
