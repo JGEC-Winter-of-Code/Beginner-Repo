@@ -78,6 +78,8 @@ Format
 
 ## [Harshad Rokade](https://github.com/harshad71)
 
+## [Steven Bahnsen](https://github.com/mr-steveb)
+
 ## [Shresth Jain](https://github.com/shresth-jain)
 
 ## [Kshitij Raghav](https://github.com/kshitijraghav)
