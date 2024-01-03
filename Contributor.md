@@ -149,3 +149,5 @@ Format
 ## [Than Tri TRAN](https://github.com/tri135790)
 
 ## [Dhruvkumar Patel](https://github.com/stack-dhruv)
+
+## [Vidhu Krishna T S](https://github.com/vidhukrishnats)
