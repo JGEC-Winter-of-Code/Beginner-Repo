@@ -8,8 +8,6 @@ Format
 
 ## [Sruti Chatterjee](https://github.com/sruti2024)
 
-## [Hossain Kabir](https://github.com/ho-ssain)
-
 ## [Chiraag Kakar](https://github.com/chiraag-kakar/)
 
 ## [Yogesh Jha](https://github.com/hound77)
@@ -80,6 +78,8 @@ Format
 
 ## [Harshad Rokade](https://github.com/harshad71)
 
+## [Steven Bahnsen](https://github.com/mr-steveb)
+
 ## [Shresth Jain](https://github.com/shresth-jain)
 
 ## [Kshitij Raghav](https://github.com/kshitijraghav)
@@ -149,3 +149,7 @@ Format
 ## [Than Tri TRAN](https://github.com/tri135790)
 
 ## [Dhruvkumar Patel](https://github.com/stack-dhruv)
+
+## [Dhruvik Tank](https://github.com/dhruviktank)
+
+## [Hossain Kabir](https://github.com/ho-ssain)
