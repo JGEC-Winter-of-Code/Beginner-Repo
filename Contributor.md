@@ -151,3 +151,9 @@ Format
 ## [Dhruvkumar Patel](https://github.com/stack-dhruv)
 
 ## [Akshay Pawar](https://github.com/DataVirtue)
+
+## [Vidhu Krishna T S](https://github.com/vidhukrishnats)
+
+## [Dhruvik Tank](https://github.com/dhruviktank)
+
+## [Hossain Kabir](https://github.com/ho-ssain)
