@@ -96,7 +96,7 @@ Format
 
 ## [Rohit Ranjan](https://github.com/Arheo8)
 
-## [Nisura Indisa] (https://github.com/indezah/)
+## [Nisura Indisa](https://github.com/indezah/)
 
 ## [Susruta Das](https://github.com/susrutadas/)
 
