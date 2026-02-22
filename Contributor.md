@@ -159,3 +159,59 @@ Format
 ## [Hossain Kabir](https://github.com/ho-ssain)
 
 ## [Aviral](https://github.com/picklepickaxe)
+
+## [Himanshu Sharma](https://github.com/himanshusharma89)
+
+## [Vaibhav Jindal](https://github.com/ivaibhavjindal/)
+
+## [Astik Shrivastava](https://github.com/astiksgithub)
+
+## [Vrukshali Torawane](https://github.com/Vrukshali-26)
+
+## [Akshat Upadhyay](https://github.com/Akshat212/)
+
+## [Suman Mandal](https://github.com/SaMaeL-TLB3)
+
+## [Aman Bisht](https://github.com/AmanBisht01/)
+
+## [Kedar Javalgekar](https://github.com/kdar11)
+
+## [Shivlal Sharma](https://github.com/sshiv5768)
+
+## [Rishab Kumar](https://github.com/rkmr039)
+
+## [Amogh Nagar](https://github.com/Amoghtech)
+
+## [Prateek Mishra](https://github.com/justprateek)
+
+## [M Sri Krishna Karthik](https://github.com/KK-1729)
+
+## [Amarjeet Sahoo](https://github.com/amarjeetsahoo)
+
+## [Geoffry Abi Farah](https://github.com/GeoffryAbiFarah)
+
+## [Anish Kshirsagar](https://github.com/dante381)
+
+## [Abhishek Morla](https://github.com/abhishekmorla/)
+
+## [Abhishek Janjalkar](https://github.com/weardo)
+
+## [Kishlay Kumar](https://github.com/Kishlay22)
+
+## [Rishikesh S](https://github.com/RishikeshSreekumar)
+
+## [Jenish Padodara](https://github.com/JenishCodes)
+
+## [Suraj Jaiswal](https://github.com/surazjaiswal)
+
+## [Tommaso Crippa](https://github.com/Crippius)
+
+## [Michael Festus](https://github.com/MichaelFestus/)
+
+## [Burak Ince](https://github.com/brknce/)
+
+## [Bruno Barbosa](https://github.com/brunbs/)
+
+## [foreverchild](https://github.com/dabreeze/)
+
+## [Kiara Hoheb](https://github.com/kxtara)
