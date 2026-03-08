@@ -12,6 +12,8 @@ Format
 
 ## [Yogesh Jha](https://github.com/hound77)
 
+## [Kiara Hoheb](https://github.com/kxtara)
+
 ## [Saurav Lal](https://github.com/saurav-skl/)
 
 ## [Sahil Saha](https://github.com/sahilsaha7773/)
