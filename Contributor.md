@@ -1,6 +1,6 @@
-# Add your names here and start your open source journey.
+# Add your name here and start your open source journey.
 
-Format
+Format:-
 
 ## [Name](Github Link)
 
