@@ -14,8 +14,8 @@ This repository is made for beginners to get started with git contribution
 5. git add . (to add everything)
 6. git commit -m "message"  (it is recommended that you commit with a message to indicate the things that you have changed)
 7. git push (push it to the main branch now, then it will be available in github)
-> git push origin branch_name (it will push your code from the local branch to the master branch) 
-e.g __git push origin devsg__ ( it will push branch devsg( local branch) to original repo's master branch , henceforth creating a PR)
+> git push origin branch_name (it will push your code from the local branch to the main branch) 
+e.g __git push origin devsg__ ( it will push branch devsg( local branch) to original repo's main branch , henceforth creating a PR)
 8. git config --global https.proxy 172.16.102.28:8080
 9. git config --global http.proxy 172.16.102.28:8080
 10. git config --global --get-regexp http.*
@@ -28,9 +28,9 @@ e.g __git push origin devsg__ ( it will push branch devsg( local branch) to orig
 - To contribute to this repository, first fork the repository (you can see this in the right-hand column).This will create a local version of the repository in your GitHub account.
 - ``` git clone https://github.com/user_name/Beginner-Repo ``` where **user_name** is your GitHub handle name e.g - https://github.com/pydevsg/Beginner-Repo 
 - ``` cd Beginner-Repo ```
-- Change from master branch to your local_branch 
+- Change from main branch to your local_branch 
 ```  git checkout -b local_branch ``` where **local_branch** is your local branch name and is user defined from your Git Bash.
-- Add your name in the Contributor.md file as given in the [Contributors format](https://github.com/pydevsg/Beginner-Repo/edit/master/Contributor.md/#4) 
+- Add your name in the Contributor.md file as given in the [Contributors format](https://github.com/pydevsg/Beginner-Repo/edit/main/Contributor.md/#4) 
 - ``` git add Contributor.md ```  
 - ``` git commit -m "comment" ``` where **comment** is user defined and it can be anything meaningful from your side. e.g - git commit -m " Added my name"
 - ``` git push origin local_branch ``` where **local_branch** is your local branch name and is user defined from your Git Bash.
